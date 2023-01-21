@@ -71,4 +71,8 @@ p {
     .qr__content p {
         font-size: 22px;
     }
+
+    .container {
+        height: 950px;
+    }
 }
